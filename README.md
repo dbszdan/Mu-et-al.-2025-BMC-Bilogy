@@ -1,3 +1,3 @@
-This code was developed for the modeling work in Mu, Rutkowski, Grenci, Vavylonis, and Zhang. Ca2+-dependent vesicular and non-vesicular lipid transfer controls hypoosmotic plasma membrane expansion., BMC Biology. 2025, by D. Rutkowski and D. Vavylonis.
+The codes were developed for the modeling work used in Mu B., Rutkowski D.M., Grenci G., Vavylonis D., and Zhang D.. Ca2+-dependent vesicular and non-vesicular lipid transfer controls hypoosmotic plasma membrane expansion., BMC Biology (2025) https://doi.org/10.1186/s12915-025-02309-5 
 
-BMC-Bilogy-2025 (https://doi.org/10.1186/s12915-025-02309-5)
+The model describes the hypotonic plasma membrane (PM) expansion process for osmotic equilibrium in fission yeast protoplasts. It primarily focuses on the coordinated remodeling events of various membrane sources (i.e., endo- and exocytosis, eisosome turnover, and non-vesicular lipid transfer), regulated by PM tension and/or Ca2+, to allow cell surface expansion to accommodate water flux driven by osmotic and hydrostatic pressure differences 
